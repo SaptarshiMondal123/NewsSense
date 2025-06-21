@@ -1,0 +1,6 @@
+NEWS_API_KEY = "b35e5aa02dbf4a0f899a20756f67ac96"
+AZURE_OPENAI_API_KEY = "8WxLaoodYxa7XSK2rCiWuP3nqwWUShSUVd5FrjEYSqqROfIwc0qzJQQJ99BFAC77bzfXJ3w3AAABACOGweqQ"
+AZURE_OPENAI_ENDPOINT = "https://mindcraft-kapidhwaj-openai-api-key.openai.azure.com/"
+AZURE_OPENAI_DEPLOYMENT_NAME = "mindcraft-gpt4o"
+AZURE_EMBEDDING_DEPLOYMENT_NAME = "mindcraft-gpt4o"
+AZURE_OPENAI_API_VERSION = "2024-12-01-preview"
