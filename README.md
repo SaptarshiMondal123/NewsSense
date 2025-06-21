@@ -27,4 +27,9 @@ Special thanks to the mentors and organizers for providing the guidance, API acc
 ```bash
 pip install -r requirements.txt
 streamlit run app.py
+```
+
+## 👨‍💻 Author
+
+Built by [Saptarshi Mondal](https://github.com/SaptarshiMondal123)
 
