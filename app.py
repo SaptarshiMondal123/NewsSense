@@ -5,7 +5,7 @@ import re
 import os
 import json
 from config import *
-from langchain.chat_models import AzureChatOpenAI
+from langchain_community.chat_models import AzureChatOpenAI
 from langchain.schema import HumanMessage
 
 st.set_page_config(page_title="NewsSense", page_icon="📰")
