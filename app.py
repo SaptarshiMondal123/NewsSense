@@ -12,12 +12,12 @@ st.set_page_config(page_title="NewsSense", page_icon="📰")
 
 # Step 1: Setup LangChain LLM
 llm = AzureChatOpenAI(
-    openai_api_base=AZURE_OPENAI_ENDPOINT,
-    openai_api_version=AZURE_OPENAI_API_VERSION,
-    deployment_name=AZURE_OPENAI_DEPLOYMENT_NAME,
-    openai_api_key=AZURE_OPENAI_API_KEY,
     openai_api_type="azure",
-    temperature=0.3,
+    azure_deployment=AZURE_OPENAI_DEPLOYMENT_NAME,
+    api_key=AZURE_OPENAI_API_KEY,
+    azure_endpoint=AZURE_OPENAI_ENDPOINT,
+    api_version=AZURE_OPENAI_API_VERSION,
+    temperature=0.3
 )
 
 # Step 2: UI Input
