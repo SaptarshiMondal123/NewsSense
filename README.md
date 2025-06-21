@@ -1,3 +1,7 @@
+[![Streamlit App](https://img.shields.io/badge/Live%20App-Streamlit-green?logo=streamlit)](https://newssense.streamlit.app/)
+[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](LICENSE)
+[![Python](https://img.shields.io/badge/Python-3.9%2B-blue.svg)](https://www.python.org/)
+
 # 📰 NewsSense
 
 NewsSense is an autonomous AI-powered news delivery agent built with Streamlit, Azure GPT-4o, and NewsAPI.
